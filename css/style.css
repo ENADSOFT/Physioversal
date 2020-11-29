@@ -22,9 +22,9 @@
 
 /* line 18, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_extend.scss */
 .boxed-btn6, .boxed-btn6:hover {
-  background-image: -moz-linear-gradient(0deg, #24c0f1 0%, #4c9afe 100%);
-  background-image: -webkit-linear-gradient(0deg, #24c0f1 0%, #4c9afe 100%);
-  background-image: -ms-linear-gradient(0deg, #24c0f1 0%, #4c9afe 100%);
+  background-image: -moz-linear-gradient(0deg, #42E64A 0%, #02a8a8 100%);
+  background-image: -webkit-linear-gradient(0deg,#42E64A  0%, #02a8a8 100%);
+  background-image: -ms-linear-gradient(0deg, #42E64A 0%,#02a8a8 100%);
 }
 
 /* Normal desktop :1200px. */
