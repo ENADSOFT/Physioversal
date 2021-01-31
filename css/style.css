@@ -2527,7 +2527,7 @@ h3 {
 
 /* line 42, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_bradcam.scss */
 .popup_box {
-  background: -webkit-linear-gradient(150deg, #42e6a4 0%,  #00816d 100%);
+  background: -webkit-linear-gradient(380deg, #00816d 0%, #42e6a4 100%);
   display: inline-block;
   z-index: 9;
   width: 750px;
