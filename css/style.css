@@ -3318,7 +3318,7 @@ h3 {
 
 /* line 26, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_emergency_contact.scss */
 .Emergency_contact .Emergency_contact_inner::before, .Emergency_contact .Emergency_contact_inner::after {
-  background-color: rgba(0, 171, 231, 0.8);
+  background-color: rgba(66,230,164,1);
   content: '';
   width: 50%;
   top: 0;
@@ -3344,7 +3344,7 @@ h3 {
 .Emergency_contact .Emergency_contact_inner::after {
   right: 0;
   top: 0;
-  background-color: rgba(0, 113, 253, 0.8);
+  background-color: rgba(2, 168, 168, 1);
 }
 
 /* line 47, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_emergency_contact.scss */
