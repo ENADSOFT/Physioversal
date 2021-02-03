@@ -146,7 +146,7 @@ p {
   line-height: 18px;
   color: #263238  ;
   margin-bottom: 13px;
-  font-family: "Proxima Nova";
+  font-family: "Work Sans" sans-serif;
 }
 
 /* line 68, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/theme-default.scss */
@@ -934,7 +934,7 @@ h3 {
 
 /* line 14, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_header.scss */
 .header-area .main-header-area {
-  background: rgba(0,129,109,1);
+  background: #42e6a4;
 }
 
 @media (max-width: 767px) {
@@ -1200,7 +1200,7 @@ h3 {
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: #42E6A4;
+  background: #00816d;
 }
 
 @media (max-width: 767px) {
