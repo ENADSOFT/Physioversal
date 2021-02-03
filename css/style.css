@@ -141,11 +141,12 @@ li {
 /* line 59, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/theme-default.scss */
 p {
   font-size: 16px;
-  font-weight: 300;
-  line-height: 30px;
-  color: #ffffff;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 18px;
+  color: #263238  ;
   margin-bottom: 13px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Proxima Nova";
 }
 
 /* line 68, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/theme-default.scss */
@@ -592,7 +593,7 @@ h3 {
 /* line 127, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_btn.scss */
 .boxed-btn3-white:hover {
   background: #fff;
-  color: #fff !important;
+  color: #008100 !important;
   border: 1px solid transparent;
 }
 
