@@ -10,6 +10,9 @@
     background: #c1bdba;
     font-family: 'Titillium Web', sans-serif;
   }
+  .plain{
+    background-image: url(../img/backplain.png);
+  }
   
   a {
     text-decoration: none;
@@ -19,6 +22,17 @@
   }
   a:hover {
     color: #179b77;
+  }
+
+
+
+  .equip{
+    background:  -webkit-linear-gradient(380deg, #e5e5e5 0%, #e5e5e5 100%);
+    padding: 40px;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px 4px #42e6a4;
   }
   
   .form {
