@@ -34,6 +34,10 @@
     border-radius: 4px;
     box-shadow: 0 4px 10px 4px #42e6a4;
   }
+  .spec{
+    text-align: center;
+    vertical-align: middle;
+  }
   
   .form {
     background:  -webkit-linear-gradient(380deg, #00816d 0%, #127681 100%);
